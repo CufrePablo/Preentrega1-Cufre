@@ -1,0 +1,5 @@
+.titulo {
+    font-size: 3rem;
+    color: #333;
+    margin: 0; /* Elimina márgenes alrededor del título */
+    text-align: left; /* Alinea el texto a la izquierda */}
